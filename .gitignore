@@ -10,6 +10,13 @@ source/__pycache__/
 # C extensions
 *.so
 
+# Databases
+*.csv
+*.xlsx
+*.vec
+*.json
+*.txt
+
 # Distribution / packaging
 .Python
 build/
